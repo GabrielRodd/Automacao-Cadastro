@@ -1,0 +1,2 @@
+Esse programa tem como objetivo automatizar o preenchimento de um site
+com os dados de uma planilha excel
